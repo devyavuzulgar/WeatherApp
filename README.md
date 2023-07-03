@@ -11,8 +11,9 @@ In this project, I wanted to improve myself in the following technologies.
 
 ## Demo Images
 
-![Ekran Resmi 2023-05-12 15 25 23](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/3fb463e0-6683-45d3-a1e1-658151ea21cf)
-![Ekran Resmi 2023-05-12 15 26 02](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/5477bd1d-8573-4ab8-ad90-3493e96e7f6d)
-![Ekran Resmi 2023-05-12 15 26 11](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/eb0c46f6-4781-451f-8ccc-2ee526f97bd1)
+![Ekran Resmi 2023-07-03 12 17 45](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/96b0a281-e355-490a-b33a-bed8fd752671)
+![Ekran Resmi 2023-07-03 12 16 24](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/6aa5aea5-2f62-4637-8cd1-edc747bdf79d)
 
-![Ekran Resmi 2023-05-12 15 27 09](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/bdfd9630-d7d3-4581-88f9-65afe4b847e1)
+
+![Ekran Resmi 2023-07-03 12 16 15](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/78a6359c-0a05-4007-ac7a-8a74c9b2533f)
+![Ekran Resmi 2023-07-03 12 15 44](https://github.com/devyavuzulgar/WeatherApp/assets/121100438/0fd4c9d2-2f11-4ba6-9b64-a6b19090285c)
