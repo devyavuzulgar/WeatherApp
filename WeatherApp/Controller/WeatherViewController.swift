@@ -93,6 +93,7 @@ extension WeatherViewController: UICollectionViewDelegate, UICollectionViewDataS
         if let dayImage = weather?.day.condition.icon {
             cell.dayImageview.kf.setImage(with: URL(string: "https:\(dayImage)"))
         }
+        
         return cell
     }
     

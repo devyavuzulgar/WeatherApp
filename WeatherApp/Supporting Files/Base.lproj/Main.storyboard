@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4pW-cs-ymG">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4pW-cs-ymG">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -328,7 +329,7 @@
                                 </constraints>
                             </view>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="oGH-kO-MwX">
-                                <rect key="frame" x="35" y="693" width="323" height="105"/>
+                                <rect key="frame" x="20" y="693" width="353" height="105"/>
                                 <color key="backgroundColor" name="BackgroundColor"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Ve1-bE-JNt">
                                     <size key="itemSize" width="150" height="100"/>
@@ -425,11 +426,11 @@
                         <viewLayoutGuide key="safeArea" id="5Is-Sp-yMG"/>
                         <color key="backgroundColor" name="BackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="5Is-Sp-yMG" firstAttribute="trailing" secondItem="oGH-kO-MwX" secondAttribute="trailing" constant="35" id="HdW-oM-Ntu"/>
+                            <constraint firstItem="5Is-Sp-yMG" firstAttribute="trailing" secondItem="oGH-kO-MwX" secondAttribute="trailing" constant="20" id="HdW-oM-Ntu"/>
                             <constraint firstItem="oGH-kO-MwX" firstAttribute="top" secondItem="BeT-4w-XLu" secondAttribute="bottom" constant="20" id="IGR-F9-9H4"/>
                             <constraint firstItem="5Is-Sp-yMG" firstAttribute="top" secondItem="SoX-5W-cTJ" secondAttribute="bottom" constant="11" id="PHA-iE-4rV"/>
                             <constraint firstItem="5Is-Sp-yMG" firstAttribute="bottom" secondItem="oGH-kO-MwX" secondAttribute="bottom" constant="20" id="QaS-JC-uIG"/>
-                            <constraint firstItem="oGH-kO-MwX" firstAttribute="leading" secondItem="5Is-Sp-yMG" secondAttribute="leading" constant="35" id="TAT-Vo-rqk"/>
+                            <constraint firstItem="oGH-kO-MwX" firstAttribute="leading" secondItem="5Is-Sp-yMG" secondAttribute="leading" constant="20" id="TAT-Vo-rqk"/>
                             <constraint firstItem="BeT-4w-XLu" firstAttribute="leading" secondItem="5Is-Sp-yMG" secondAttribute="leading" id="Xqs-Eg-2gk"/>
                             <constraint firstItem="BeT-4w-XLu" firstAttribute="trailing" secondItem="5Is-Sp-yMG" secondAttribute="trailing" id="dqK-A5-TB8"/>
                             <constraint firstItem="BeT-4w-XLu" firstAttribute="height" secondItem="1WL-3q-e3v" secondAttribute="height" multiplier="0.79" id="kk7-ga-DJE">
